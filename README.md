@@ -5,7 +5,7 @@ My name is Chebrolu Niranjan
 I love Machine Learning and am a Frontend Developer.
 
 * ✉️  You can contact me at [chebroluniranjan2@gmail.com](mailto:chebroluniranjan2@gmail.com)
-* 🧠  I'm learning Svelte and Machine Learning
+* 🧠  I'm learning React and Machine Learning
 * 🤝  I'm open to collaborating on Web Dev and Machine Learning Projects
 * ⚡  I love Football and everything to do with the game.
 
