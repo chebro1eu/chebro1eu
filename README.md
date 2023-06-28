@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Predictive Failure Analysis**
+- 🔭 I’m currently working on **Predictive Failure Analysis and Langchain**
 
 - 🌱 I’m currently learning **Tensorflow and React**
 
