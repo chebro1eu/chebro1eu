@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Predictive Failure Analysis and Langchain**
 
-- 🌱 I’m currently learning **Tensorflow and React**
+- 🌱 I’m currently learning **Tensorflow,React and Langchain**
 
 - 💬 Ask me about **Machine Learning**
 
