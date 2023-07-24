@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Creating a Chat GPT Plugin and working with CLI's **
+- 🔭 I’m currently working on **Creating a Chat GPT Plugin and a music pattern recognizer**
 
-- 🌱 I’m currently learning **Langchain and how to work with NLPs**
+- 🌱 I’m currently learning **Langchain and how to work with NLP's**
 
 - 💬 Ask me about **Machine Learning**
 
