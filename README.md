@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Predictive Failure Analysis and Langchain**
+- 🔭 I’m currently working on **Creating a Chat GPT Plugin and working with CLI's **
 
-- 🌱 I’m currently learning **Tensorflow,React and Langchain**
+- 🌱 I’m currently learning **Langchain and how to work with NLPs**
 
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **chebroluniranjan2@gmail.com**
 
-- ⚡ Fun fact **I love football and everything to do with the game**
+- ⚡ Fun fact **I love football :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
