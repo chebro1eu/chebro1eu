@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Satellite Image Time Series Data and Vision Transformers**
 
-- 🌱 I’m currently learning **VideoMAE and LLAMAV2**
+- 🌱 I’m currently learning **RAG and High Speed SpatioTemporal Image Procesing**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and Natural Language Processing**
 
 - 📫 How to reach me **chebroluniranjan2@gmail.com**
 
