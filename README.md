@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Satellite Image Time Series Data and Vision Transformers**
+- 🔭 I’m currently working on **Machine Translation and Computational Linguistics**
 
-- 🌱 I’m currently learning **RAG and High Speed SpatioTemporal Image Procesing**
+- 🌱 I’m currently learning **Computational Psycholinguistics**
 
 - 💬 Ask me about **Machine Learning and Natural Language Processing**
 
