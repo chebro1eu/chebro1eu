@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Machine Translation and Computational Linguistics**
+- 🔭 I’m currently working on **Mechanistic Interpretability and Computational Linguistics**
 
-- 🌱 I’m currently learning **Computational Psycholinguistics**
+- 🌱 I’m currently learning **Activation Patching, Steering Vectors**
 
 - 💬 Ask me about **Machine Learning and Natural Language Processing**
 
