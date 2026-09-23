@@ -2,8 +2,7 @@
 
 # 👋 Hey, I'm Niranjan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F7FFF&center=true&vCenter=true&width=700&lines=Mechanistic+Interpretability;Computational+Linguistics;Language+Model+Behaviour;Reasoning+%26+Representations;Be+curious%2C+not+judgemental." alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F7FFF&center=true&vCenter=true&width=700&lines=Mechanistic+Interpretability;Computational+Linguistics;Language+Model+Behaviour;Reasoning+%26+Representations;Be+curious%2C+not+judgemental.;Probably+touching+grass+right+now." alt="Typing SVG" />
 <br>
 
 *I study what language models learn, how representations form, and why model behaviour changes.*
