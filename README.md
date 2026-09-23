@@ -3,13 +3,6 @@
 
 - 🔭 I’m currently working on **Mechanistic Interpretability and Computational Linguistics**
 
-- 🌱 I’m currently learning **Activation Patching, Steering Vectors**
-
-- 💬 Ask me about **Machine Learning and Natural Language Processing**
-
-- 📫 How to reach me **chebroluniranjan2@gmail.com**
-
-- ⚡ Fun fact **I love football :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
