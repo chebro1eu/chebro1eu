@@ -79,17 +79,15 @@ Be willing to be wrong.
 
 ---
 
-## 📊 GitHub activity
+## 🧠 Watching the heads
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chebro1eu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebro1eu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img src="./assets/attention.svg" width="100%" alt="Animated attention heads over the phrase: understand the mechanism, not just the output." />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chebro1eu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chebro1eu&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -110,8 +108,8 @@ Be willing to be wrong.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/chebrolu-niranjan-395048228/">LinkedIn</a>
-  •   <a href="https://scholar.google.com/citations?user=BnUH-VQAAAAJ&hl=en&oi=ao">Google Scholar</a>
-  •   <a href="https://trequartisti.substack.com/">Substack</a>
+  •   <a href="https://scholar.google.com/citations?user=BnUH-VQAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  •   <a href="https://trequartisti.substack.com/">Substack</a>
 
 <br><br>
 
